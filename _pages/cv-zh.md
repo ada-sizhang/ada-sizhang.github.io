@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /publications/
+permalink: /cv-zh/
 author_profile: true
 ---
 
