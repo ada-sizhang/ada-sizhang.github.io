@@ -1,5 +1,5 @@
 ---
-permalink: https://ada-sizhang.github.io/cv-zh/
+permalink: 
 title: ""
 excerpt: "About me"
 author_profile: true
