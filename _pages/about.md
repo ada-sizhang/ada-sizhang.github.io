@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: /cv-zh/
 title: ""
 excerpt: "About me"
 author_profile: true
