@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ruida Xie"
+  name             : "Ada ZHANG"
   avatar           : "1473088994.jpg"
-  bio              : "PhD"
-  location         : "Sydney, AU"
-  employer         :
+  bio              : "MBA.M.Eng"
+  location         : "Wuhan, China"
+  employer         : "CSSC"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.au/citations?user=f_HyjbUAAAAJ&hl=en&oi=ao"
-  email            : "ruida.xie@student.unsw.edu.au"
-  researchgate     : "https://www.researchgate.net/profile/Ruida-Xie"
+  googlescholar    : 
+  email            : "mayday_zs@126.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Ruida-Xie"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
