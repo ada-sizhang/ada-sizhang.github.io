@@ -5,7 +5,6 @@ permalink: /cv-zh/
 author_profile: true
 ---
 
-# <span style="color:0B628B"> 教育背景 </span>
 # 教育背景 
 * **2020.2-2021.9** 新南威尔士大学 硕士（award with excellence） 专业会计 
 * **2014.9-2016.6** 哈尔滨工程大学 硕士（保送） 控制工程 
