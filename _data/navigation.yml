@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Projects"
-    url: /portfolio/
+ # - title: "Projects"
+  #  url: /portfolio/
 
-  - title: "Research Data"
-    url: /researchdata/    
+ # - title: "Research Data"
+  #  url: /researchdata/    
 
-  - title: "Publications"
-    url: /publications/
+  - title: "简历"
+    url: /cv-zh/
 
   - title: "CV"
-    url: /cv/
+    url: /cv-en/
 
 #  - title: "Talks"
 #    url: /talks/    
