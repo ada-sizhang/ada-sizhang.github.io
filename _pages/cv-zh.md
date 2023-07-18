@@ -5,7 +5,7 @@ permalink: /cv-zh/
 author_profile: true
 ---
 
-<span style="color:red">Text content</span>
+<span style="color:red"> # 教育背景 </span>
 
 # $\color{#0B628B} {# 教育背景} $
 # 教育背景 
