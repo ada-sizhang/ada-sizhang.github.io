@@ -32,8 +32,8 @@ ACCA Qualification（Ranked 1st in Advanced Financial Management (AFM) exam in A
 * dealing with problems during the project acceptance process.
 
 # SKILLS
-* IELTS 6.5 (living in Australia for 4 years, can communicate with native speakers)
-* Skilled MS office software user
+* IELTS 6.5 (living in Australia for 3 years, can communicate with native speakers)
+* Skilled MS office software user, Skilled Yonyou Software User
 * Experienced SQL，C programmer 
 
 # AWARDS
