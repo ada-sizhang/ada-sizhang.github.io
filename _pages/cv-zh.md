@@ -5,7 +5,8 @@ permalink: /cv-zh/
 author_profile: true
 ---
 
-<font color=> # 教育背景 <font>
+# $\color{#0B628B} {# 教育背景} $
+# 教育背景 
 * **2020.2-2021.9** 新南威尔士大学 硕士（award with excellence） 专业会计 
 * **2014.9-2016.6** 哈尔滨工程大学 硕士（保送） 控制工程 
 * **2010.9-2014.6** 哈尔滨工程大学 本科 测控技术与仪器 
