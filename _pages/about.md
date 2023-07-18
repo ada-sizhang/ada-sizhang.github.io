@@ -1,11 +1,11 @@
 ---
-permalink: 
+
+layout: archive
 title: ""
-excerpt: "About me"
+permalink: /cv-zh/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+ 
+  
 ---
 
 # EDUCATION
