@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ruida's Home Page"
+title                    : "Ada's Home Page"
 title_separator          : "-"
-name                     : &name "Ruida's Home Page"
+name                     : &name "Ada's Home Page"
 description              : &description "personal description"
 url                      : https://ada-sizhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
