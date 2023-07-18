@@ -1,30 +1,43 @@
 ---
 permalink: /
-title: "About me"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hi! I'm a PhD candidate studying at Australian Center for Space Engineering Research ([ACSER](https://www.acser.unsw.edu.au/)), University of New South Wales, Sydney. I'm expecting to graduate in mid-2022. Generally, my current research focuses on three fields: 
-* Off-Earth mining and Space Resources Utilisation  
-* Artificial Intelligence in space mission design and optimisation. 
-* Trajectory optimisation. 
 
-My past experience includes: 
-* GNC algorithms 
-* High accuracy attitude determination for agile remote sensing satelite 
-* Star sensor and gyroscope online/offline calibration, etc.
+# Education
+* **2020.2-2021.9** University of New South Wales, Sydney. MBA （Professional Accounting, award with excellence）
+* **2014.9-2016.6** Harbin Engineering University. M.Eng (Control Engineering)
+* **2010.9-2014.6** Harbin Engineering University. B.Eng (Measurement and Control Technology and Instrument)
 
-## News
-* **Current** Working on thesis
-* **29 Jun 2022** I've been awarded as one of the [Emerging Space Leaders](https://www.iafastro.org/news/the-iaf-is-proud-to-introduce-the-2022-iaf-emerging-space-leaders.html) by IAF. And I'll be attending 2022 IAC Paris. See you there!
-* **29 Mar 2022** Completed the 7-week "Getting Published" training workshops delivered by Dr. Jeffrey Robens from [Nature Research Academies](https://partnerships.nature.com/product/nature-research-academies/). Great experience!
-* **5 Mar 2022** Presenting my work at [IEEE Aerospace Conference](https://www.aeroconf.org/)!
-* **8 Jan 2022** Presenting my work at [AIAA SciTech Forum](https://www.aiaa.org/SciTech). Paper selected for AIAA journal consideration!
-* **8 Nov 2021** I'm participating 11th Global Trajectory Optimisation Competition([GTOC11](https://gtoc11.nudt.edu.cn/GTOC?page=home))!
-* **7 Aug 2021** Presenting my work at AIAA/AAS Astrodynamics Specialist Conference!
+# Professional Certificates
+ACCA Qualification（Ranked 1st in Advanced Financial Management (AFM) exam in Australia）
 
-## Contact
-Contact me via: ruida.space@gmail.com. I'm happy to talk about my research - and everything!
+# JOB EXPERIENCE
+**2023.02-Now Accountant, China State Shipbuilding Corporation, Limited (CSSC) 717th Research Institute – Quantum Optics **
+* Financial processing: Reviewing the original invoice of daily business and preparing accounting vouchers.
+* Budget management： Create company’s monthly financial plans; Tracking and analyzing the budget implementation of each department of the company; Cost control.
+* Financial Audit：Validate the expense report, review the rationality of the expense amount, examine the corresponding invoices, supervising the reimbursement process and regularly summarize the reimbursement transactions.
+* Tax management: Handling all tax-related matters, such as the declaration of the company's value-added tax, stamp duty, land use tax, corporate income tax and other taxes and fees.
+* Cost accounting: Summarize expenses of the company’s projects and calculate project costs。
+
+**2016.9-2018.9 Software Engineer, New H3C Technologies Co., Ltd. **
+* Feature development and maintenance of priority mapping/TB&CAR/packet filtering/MQC/whitelist and other modules
+* analyzing requirements, providing test cases and test suggestions, coding,
+* system testing, and grasping the progress of the project
+* dealing with problems during the project acceptance process.
+
+# SKILLS
+* IELTS 6.5 (living in Australia for 4 years, can communicate with native speakers)
+* Skilled MS office software user
+* Experienced SQL，C programmer 
+
+# AWARDS
+* **2022.10** Master of Accounting award with excellence
+* **2014.9-2015.9** Harbin Engineering University Postgraduate First-Class Scholarship (twice)
+* **2011.5-2013.10** Harbin Engineering University Undergraduate Scholarship (5 times)
+* Publication: Si, ZHANG, Lei Wu, Bing, Xue, Self-calibration Method for FOG Scale Factor, Piezoelectrics & Acoustooptics (First Author)
+* Two Patents (ID: CN201510046553; CN201510112353)
