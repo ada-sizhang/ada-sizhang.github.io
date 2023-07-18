@@ -5,6 +5,10 @@ permalink: /cv-zh/
 author_profile: true
 ---
 
+<span style="color:red">
+Text content
+</span>
+
 # $\color{#0B628B} {# 教育背景} $
 # 教育背景 
 * **2020.2-2021.9** 新南威尔士大学 硕士（award with excellence） 专业会计 
