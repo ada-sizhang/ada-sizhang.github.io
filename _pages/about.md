@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # EDUCATION
-* **2020.2-2021.9** University of New South Wales, Sydney. MBA （Professional Accounting, award with excellence）
+* **2020.2-2021.9** University of New South Wales, Sydney. MPAcc（Professional Accounting, award with excellence）
 * **2014.9-2016.6** Harbin Engineering University. M.Eng (Control Engineering)
 * **2010.9-2014.6** Harbin Engineering University. B.Eng (Measurement and Control Technology and Instrument)
 
@@ -18,21 +18,21 @@ ACCA Qualification（Ranked 1st in Advanced Financial Management (AFM) exam in A
 
 # JOB EXPERIENCE
 **2023.02-Now Accountant,China State Shipbuilding Corporation, Limited (CSSC) 717th Research Institute–Quantum Optics**
-* Financial processing: Reviewing the original invoice of daily business and preparing accounting vouchers.
-* Budget management： Create company’s monthly financial plans; Tracking and analyzing the budget implementation of each department of the company; Cost control.
-* Financial Audit：Validate the expense report, review the rationality of the expense amount, examine the corresponding invoices, supervising the reimbursement process and regularly summarize the reimbursement transactions.
+* Financial processing: Reviewing the original invoice of daily business and creating accounting ledger.
+* Budget management： Create company’s monthly financial budget; Tracking and analysing the budget implementation of each department of the company; Cost control.
+* Financial reimbursement：Validate the truth of the reimbursement, review the rationality of the amount, examine the corresponding invoices, supervising the reimbursement process.
 * Tax management: Handling all tax-related matters, such as the declaration of the company's value-added tax, stamp duty, land use tax, corporate income tax and other taxes and fees.
-* Cost accounting: Summarize expenses of the company’s projects and calculate project costs。
+* Cost accounting: Summarise expenses of the company’s projects and calculate project costs。
 
 **2016.9-2018.9 Software Engineer,New H3C Technologies Co.,Ltd.**
 * Feature development and maintenance of priority mapping/TB&CAR/packet filtering/MQC/whitelist and other modules
-* analyzing requirements, providing test cases and test suggestions, coding,
+* analysing requirements, providing test cases and test suggestions, coding,
 * system testing, and grasping the progress of the project
 * dealing with problems during the project acceptance process.
 
 # SKILLS
-* IELTS 6.5 (living in Australia for 4 years, can communicate with native speakers)
-* Skilled MS office software user
+* IELTS 6.5 (living in Australia for 3 years, can communicate with native speakers)
+* Skilled MS office software user, Skilled Yonyou Software User
 * Experienced SQL，C programmer 
 
 # AWARDS
