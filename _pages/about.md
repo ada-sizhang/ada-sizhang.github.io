@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-# Education
+# EDUCATION
 * **2020.2-2021.9** University of New South Wales, Sydney. MBA （Professional Accounting, award with excellence）
 * **2014.9-2016.6** Harbin Engineering University. M.Eng (Control Engineering)
 * **2010.9-2014.6** Harbin Engineering University. B.Eng (Measurement and Control Technology and Instrument)
 
-# Professional Certificates
+# PROFESSIONAL CERTIFICATES
 ACCA Qualification（Ranked 1st in Advanced Financial Management (AFM) exam in Australia）
 
 # JOB EXPERIENCE
