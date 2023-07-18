@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV-EN"
-permalink: /cv/
+permalink: ada-sizhang.github.io/cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -19,10 +19,21 @@ redirect_from:
 ACCA Qualification（Ranked 1st in Advanced Financial Management (AFM) exam in Australia）
 
 # JOB EXPERIENCE
-* **2022.03** China State Shipbuilding Corporation, Limited (CSSC) 717th Research Institute – Quantum Optics, Accountant
+## **2022.03** China State Shipbuilding Corporation, Limited (CSSC) 717th Research Institute – Quantum Optics, Accountant
+* Financial processing: Reviewing the original invoice of daily business and preparing accounting vouchers(记账凭证).
+* Budget management：负责公司每月资金预算编制，对公司各部门预算执行情况进行跟踪分析，进行成本管控。Create company’s monthly financial plans; Tracking and analyzing the budget implementation of each department of the company; Cost control.
+* Financial Audit：Validate the expense report, review the rationality of the expense amount, examine the corresponding invoices, supervising the reimbursement process and regularly summarize the reimbursement transactions.
+* Tax management：负责公司增值税、印花税、土地使用税、企业所得税等税费的申报缴纳及各类涉税事项的办理。
+* Tax management: Handling all tax-related matters, such as the declaration of the company's value-added tax, stamp duty, land use tax, corporate income tax and other taxes and fees.
+* Cost accounting: Summarize expenses of the company’s projects and calculate project costs。
 
 
-* **2022.03** New H3C Technologies Co., Ltd., software engineer
+## **2022.03** New H3C Technologies Co., Ltd., software engineer
+* Feature development and maintenance of priority mapping/TB&CAR/packet filtering/MQC/whitelist and other modules
+* analyzing requirements, providing test cases and test suggestions, coding,
+* system testing, and grasping the progress of the project
+* dealing with problems during the project acceptance process.
+
 # SKILLS
 * IELTS 6.5 (living in Australia for 4 years, can communicate with native speakers)
 * Skilled MS office software user
