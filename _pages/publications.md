@@ -5,31 +5,34 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+# 教育背景
+* **2020.2-2021.9** 新南威尔士大学 硕士（award with excellence） 专业会计 
+* **2014.9-2016.6** 哈尔滨工程大学 硕士（保送） 控制工程 
+* **2010.9-2014.6** 哈尔滨工程大学 本科 测控技术与仪器 
 
+# 证书
+ACCA 全科通过（AFM澳大利亚地区第一名）
 
-## Preprints/Papers Under Review/Revisions
-* Xie, R. and Dempster, A.G., 2022. Feasible Low-thrust Trajectory Identification via a Deep Neural Network Classifier. arXiv preprint arXiv:2202.04962.
-* Xie, R. and Dempster, A.G., 2022. Multi-scale deep learning framework for low thrust transfer cost approximation. 
-* Xie, R. and Dempster, A.G., 2022. Efficient low-thrust trajectory generation based on generative adversarial network. 
-* Xie, R., Saydam, S. and Dempster, A.G., 2022. Campaign-level long-term asteroid mining mission design and optimisation
-* Xie, R., Saydam, S. and Dempster, A.G., 2022. A Review of off- Earth mining mission architecture.
-* Xie, R., S. and Dempster, A.G., 2022. GTOC 11: Results from team ACSER
+# 工作经历
+** 2023.2-至今 中国船舶集团第七一七研究所旷腾公司 会计 **
+* 财务处理：负责日常业务的原始凭证审核并编制记账凭证。
+* 预算管理：负责公司每月资金预算编制，对公司各部门预算执行情况进行跟踪分析，进行成本管控。
+* 财务审核：审核报销内容真实性、票据合规性和报销金额合理性，跟进报销流程，进行费用报销登记。
+* 税务管理：负责公司增值税、印花税、土地使用税、企业所得税等税费的申报缴纳及各类涉税事项的办理。
+* 成本核算：对公司各项费用进行归集，对项目成本进行计算。
 
-## Year 2022
-* Bennett, N.J., Xie, R. and Dempster, A.G., 2022. The Moon and NEAs as sources of cislunar propellant; removing some constraints from a recent paper drives down lunar sourced propellant cost. Acta Astronautica, 190, pp.409-412.
-* Xie, R., Saydam, S. and Dempster, A., 2022. A framework for campaign level asteroid mining pre-feasibility study. In AIAA SCITECH 2022 Forum (p. 2583).
-* Xie, R. and Dempster, A.G., 2022. Low-thrust Accessibility Evaluation for Near-Earth Asteroids. IEEE Aerospace Conference.
+** 2016.9-2018.9新华三技术有限公司(H3C) 软件开发工程师 **
+* 在核心路由器产品部门驱动业务组(QOS)工作，主要负责优先级映射/TB&CAR/包过滤/MQC/ 白名单等模块的特性开发和维护工作。开发项目中主要负责分析需求、提供测试用例和测试建议，编码，系统测试和把握项目进度等工作，以及项目验收过程中的问题处理。
 
-## Year 2021
-* Xie, R. and Dempster, A.G., 2021. An on-line deep learning framework for low-thrust trajectory optimisation. Aerospace Science and Technology, 118, p.107002.
-* Xie, R., Bennett, N.J. and Dempster, A.G., 2021. Target evaluation for near earth asteroid long-term mining missions. Acta Astronautica, 181, pp.249-270.
-* Xie, R., Dempster, A. and Bennett, N., 2021. Search and evaluation of near-earth asteroid long stay-time mining missions. 43rd COSPAR Scientific Assembly. Held 28 January-4 February, 43, p.183.
+# 个人技能 
+* 英语 雅思6.5 四六级通过 英语可作为工作语言
+* 熟练使用Office办公软件，用友软件
+* 熟练使用SQL，C语言
 
-## Before 2020
-* Liu, Y., Xie, R., Zhao, L. and Hao, Y., 2016. Machine learning based on-orbit distortion calibration technique for large field-of-view star tracker. Infrared and Laser Engineering, 45(12), p.1217004.
-* ZHAO, L., XIE, R., LIU, Y. and HAO, Y., 2017. Offline calibration method of low frequency error of star sensor and gyroscope drift [J]. Acta Aeronautica ET Astronautica Sinicaˈ, 38(5), pp.42-50.
+# 荣誉
+* **2022.10** 优秀毕业生
+* **2014.9-2015.9** 哈尔滨工程大学研究生学业一等奖学金2次
+* **2011.5-2013.10** 哈尔滨工程大学奖学金5次
+* 论文《光纤陀螺标度因数的自标定方法》--《压电与声光》已发表 （本人第一作者）
+* 专利两项 申请号：CN201510046553 CN201510112353
