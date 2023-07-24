@@ -24,7 +24,7 @@ ACCA Qualification（Ranked 1st in Advanced Financial Management (AFM) exam in A
 * Tax management: Handle all tax-related matters, such as the declaration of the company's value-added tax, stamp duty, land use tax, corporate income tax and other taxes and fees.
 * Cost accounting: Summarise expenses of the company’s projects and calculate project costs.
 
-**2016.9-2018.9 Software Engineer,New H3C Technologies Co.,Ltd.**
+**2016.7-2018.9 Software Engineer,New H3C Technologies Co.,Ltd.**
 * Feature development and maintenance of priority mapping/TB&CAR/packet filtering/MQC/whitelist and other modules
 * Analyse requirements, provide test cases and test suggestions, coding.
 * System testing, and graspe the progress of the project.
